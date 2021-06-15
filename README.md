@@ -7,7 +7,6 @@ Recognizing handwritten text is a problem that can be traced back to the first a
 an estimator with the task of learning through a fit() function, and once it has reached a degree of predictive capability (a model sufficiently valid), it will produce a prediction with the predict() function. Then we will discuss the training set and validation set, created this time from a series of image.
 
 ## Technology Used:
-
 IPython Notebook
 
 ## Applications:
